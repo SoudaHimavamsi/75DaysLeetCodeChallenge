@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
