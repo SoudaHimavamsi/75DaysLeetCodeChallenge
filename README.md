@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
