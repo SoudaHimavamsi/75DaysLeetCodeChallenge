@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
+| [0212-word-search-ii](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/SoudaHimavamsi/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
